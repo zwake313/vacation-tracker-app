@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Save Excursion"
+        android:id="@+id/vacation_save"
+        />
+
+    <item android:title="Delete Excursion"
+        android:id="@+id/vacation_delete"
+        />
+
+    <item android:title="Set Excursion Alarm"
+        android:id="@+id/set_alarm"
+        />
+</menu>

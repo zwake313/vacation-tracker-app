@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="vacation_1">#5B51DE</color>
+    <color name="vacation_2">#095FE0</color>
+    <color name="vacation_3">#3DDC84</color>
+
+    <color name="vacation_1_light">#E5E2FA</color>
+    <color name="vacation_2_light">#97AFCC</color>
+</resources>
